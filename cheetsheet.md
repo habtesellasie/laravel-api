@@ -1,3 +1,15 @@
+`<code>git init</code>`
+
+`<code>git add .</code>`
+
+`<code>git commit -m 'initial commit message'</code>`
+
+`<code>gh repo create repo-name-here --private / --public</code>`
+
+`<code>git remote add origin https://github.com/havecodesoft/students- code-editor.git</code>`
+
+`<code>`git push -u origin main` </code>or``<code><code> `
+
 `@vite('resources/css/app.css') include this for autoloading on save`
 
 > when change the APP_ENV to production it warns
